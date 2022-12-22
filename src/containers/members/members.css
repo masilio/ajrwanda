@@ -1,0 +1,33 @@
+
+.org__members{
+    background-color: whitesmoke;
+    margin-bottom: 1rem;
+    position: relative;
+    top: 46rem;
+}
+.team__header{
+
+    font-size: 32px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:bold;
+    
+    color:blue;
+    width: 600px;
+    border-bottom: 4px solid goldenrod;
+
+    text-align: center;
+    padding: 10px;
+}
+
+.officials{
+    flex: 1;
+    display:flex;
+     flex-direction: row;
+     flex-wrap: wrap;
+     justify-content: space-around;
+}
+
+.official h5,.text-muted{
+
+    text-align: center;
+}

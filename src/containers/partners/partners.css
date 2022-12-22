@@ -1,0 +1,11 @@
+.parterns{
+
+display:flex
+
+}
+
+.parterns .partern{
+
+    width: 200px;
+    height: 100px;
+}

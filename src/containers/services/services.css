@@ -1,0 +1,41 @@
+
+
+.org__services{
+background-color: rgb(215, 215, 219);
+position: relative;
+top:46rem;
+    
+}
+
+.services__header{
+    font-size: 32px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:bold;
+    
+    color:blue;
+    width: 500px;
+    border-bottom: 4px solid goldenrod;
+
+    text-align: center;
+    padding: 10px;
+}
+
+.service h5{
+ margin-bottom: 2.2rem;
+ color:blue;
+ 
+}
+.service{
+    margin-bottom: 40px;
+    padding-top: 1rem;
+
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: justify;
+
+}
+
+.col-md-2 img{
+ 
+    width: 400px;
+}

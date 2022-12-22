@@ -1,0 +1,33 @@
+
+.ajr__navbar {
+    display: flex;
+    background:#07052d;
+    padding-left: 4rem;
+
+}
+
+.ajr__navbar-links_logo  {
+
+    text-align: center;
+    
+}
+
+
+.ajr__navbar-links_logo img {
+    width: 20%;
+    height:20%;
+    border-radius: 50%;
+    
+}
+
+.header__text{
+    font-family:'algerian';
+    font-size: 2rem;
+    line-height: 18px;
+    color:#a3a734;
+    font-weight: bolder;
+    z-index: 20000;
+    text-align: center;
+    padding-top: 2rem;
+   padding-left: 4rem;
+}

@@ -1,23 +1,32 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import "./App.css";
+import './index.css'
+import "/node_modules/bootstrap/dist/css/bootstrap.min.css"
+
+import {Header,Footer,WhatIsAJR,Values,Members,Team,Services,Involved,Partners,Contactus, Videos} from './containers'
+
+import {Navbar,CTA,Brand,Feature,Article} from './components'
 
 function App() {
+  
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+     <div className="container-fluid">
+
+      <Navbar/>
+      <Header/>
+      
+      </div>
+      <div className="container-fluid">
+      <WhatIsAJR/>
+      <Values />
+      <Members/>
+      <Services/>
+      
+      <Contactus/>
+    
+      <Footer/>
+      </div>
     </div>
   );
 }

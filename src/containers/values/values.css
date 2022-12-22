@@ -1,0 +1,35 @@
+.ong__values{
+  
+    padding-top: 2rem;
+    margin-bottom: 1rem;
+
+    position: relative;
+    top: 46rem;
+}
+.org__values{
+    color: #FFF;
+    font-size: 2.2rem;
+    padding: 0.40rem;
+    text-align: center;
+    width: 800px;
+    border-bottom: 1px solid #FFF;
+}
+.values__slog{
+    color:rgb(36, 4, 36);
+    font-size: 1.5rem;
+    padding-bottom: 2rem;
+    margin-left: 5rem;
+    
+}
+.ong__values .card{
+
+    background-color:rgb(103, 141, 170);
+    color:#FFF;
+    border: 0px;
+
+    
+}
+
+.ong__values .card-img{
+    height: 750px;
+}

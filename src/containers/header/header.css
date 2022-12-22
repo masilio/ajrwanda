@@ -1,0 +1,54 @@
+
+.ajr__section{
+    height: 90vh;
+    width: 100%;
+    position: absolute;
+    top: 9rem;
+    left: 0;
+}
+
+.ajr__header-content .header__text{
+    font-family:'algerian';
+    font-size: 4rem;
+    line-height: 45px;
+    color:#eb1f88;
+    font-weight: bolder;
+    z-index: 20000;
+    text-align: center;
+    padding-top: 4rem;
+}
+
+.ajr__header-content-slog  {
+    width: 80%;
+    margin-left: 5rem;
+    border-radius: 38%;
+    font-family:'Book antiqua',  sans-serif;
+    
+    font-size: 30px;
+    line-height: 40px;
+    color: rgb(248, 247, 252);
+    text-align: justify;
+    padding: 9rem;
+    margin-top: 3rem;
+    font-style: italic;
+    z-index: 7000;
+
+}
+
+.ajr__header-content-slog h5 {
+   
+    font-family:'Arial', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+   
+
+}
+
+.ajr__section .card-img{
+    border: 0px;
+    border-radius: 0px;
+    left: 0;
+    position: absolute;
+    right: 0;
+}
+
+

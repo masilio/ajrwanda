@@ -1,0 +1,72 @@
+
+.about__us{
+    padding-top: 4.2rem;
+
+    position: relative;
+    top:34rem;
+    height: 60rem;
+   
+}
+.about__us-text{
+    color: #FFF;
+   
+    font-size: 20px;
+
+}
+.about__us-text .who__weare{
+    text-align: center;
+    font-size: 2rem;
+}
+
+
+.who__weare img{
+    padding-right: 2rem;
+    size: 1rem;
+}
+
+.vision__header,.mission__header,.objective__header{
+
+    color: rgb(236, 29, 42);
+    font-weight: bold;
+    text-align: center;
+    font-size: 1rem;
+    text-transform: uppercase;
+}
+.org__aim ,.about__us-text{
+ 
+    margin-bottom: 1rem;
+    color:black;
+   
+   
+}
+
+.about__us-text{
+
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: justify;
+}
+
+.vision__text,.mission__text,.objective__text{
+
+    text-align: justify;
+    padding: 1rem;
+    
+}
+
+.about__us .card-img{
+
+    opacity: .2;
+    height: 1100px;
+}
+
+.myove{
+
+  max-height: 800px;
+}
+
+.org__aim img{
+
+    width: 30px;
+}
+
