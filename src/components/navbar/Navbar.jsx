@@ -1,10 +1,8 @@
-import React, { useState } from 'react';
-import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
+import React from 'react';
 import logo from '../../assets/logo.jpeg';
 import './navbar.css';
 
 const Navbar = () => {
-  const [toggleMenu, setToggleMenu] = useState(false);
 
   return (
     <div className="container-fluid ajr__navbar">
