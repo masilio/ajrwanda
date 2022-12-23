@@ -1,9 +1,7 @@
 import React from 'react'
 import './services.css'
 
-import humandevelopmentpic from '../../assets/human-development-pic.jpeg'
 import legalrightpic from '../../assets/legal-right-pic.jpeg'
-import legalassistancepic from '../../assets/legal-assistance-pic.jpeg'
 import BradingImage from '../../assets/bradingImg.jpeg'
 import spiralImagLaw from '../../assets/spiralImagLaw.jpeg'
 const Services = () => {

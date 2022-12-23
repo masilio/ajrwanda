@@ -23,7 +23,7 @@ const Members = () => {
           <div class="card-body p-4">
             <div class="d-flex text-black">
               <div class="flex-shrink-0">
-                <img src={CeoPic} className="img-fluid" style={{'width': '180px', 'border-radius':'10px' }}/>
+                <img src={CeoPic} className="img-fluid" style={{'width': '180px', 'border-radius':'10px' }} alt=""/>
               </div>
               <div class="flex-grow-2 ms-3">
                 <h5 class="mb-1">Rehema BUTOYI </h5>
@@ -65,40 +65,40 @@ Coupled with experience and passion in Human Rights activities, led her to spend
              <div className="officials">
               <div className="official">
   
-    <img src={ArtCoordinator} class="rounded-circle" style={{"width": "300px"}}/>
+    <img src={ArtCoordinator} class="rounded-circle" style={{"width": "300px"}} alt =""/>
     <h5 class="mb-2">Diane MUTETAYIRE</h5>
     <p class="text-muted">Project Coordintor </p>
     
   </div>
 
   <div class="official">
-    <img src={DirectorOfAdministration} className="rounded-circle" style={{"width": "300px"}}/>
+    <img src={DirectorOfAdministration} className="rounded-circle" style={{"width": "300px"}} alt =""/>
     
       <h5 className="mb-2">NIYONSENGA Fatm</h5>
       <p class="text-muted">Director of Administration & Finance</p>
   </div>
 
   <div class="official">
-    <img src={ArtMonitoring} class="rounded-circle" style={{"width": "300px"}}/>
+    <img src={ArtMonitoring} class="rounded-circle" style={{"width": "300px"}} alt =""/>
     <h5 class="mb-2">Jean De Dieu BIZIMANA</h5>
       <p class="text-muted">Monitoring and Evaluation</p>
     </div>
 
      <div className="official">
              
-    <img src={ArtITDirector} class="rounded-circle" style={{"width": "300px"}}/>
+    <img src={ArtITDirector} class="rounded-circle" style={{"width": "300px"}} alt =""/>
     <h5 class="mb-2">Felix NSHIMIYIMANA</h5>
       <p class="text-muted">IT Director</p>
   </div>
 
 <div class="official">
-    <img src={ArtProcurement} className="rounded-circle" style={{"width": "300px"}}/>
+    <img src={ArtProcurement} className="rounded-circle" style={{"width": "300px"}} alt =""/>
     
     <h5 class="mb-2">Clarisse UWAMAHORO</h5>
       <p class="text-muted">Procurement Specialist</p>
   </div>
 <div class="official">
-<img src={ArtAcountant} class="rounded-circle" style={{"width": "300px"}}/>
+<img src={ArtAcountant} class="rounded-circle" style={{"width": "300px"}} alt =""/>
     <h5 class="mb-2">DjAFal HABIMANA</h5>
       <p class="text-muted">Accountant and Logistics</p>
   </div>
